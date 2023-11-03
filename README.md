@@ -14,9 +14,9 @@
 
 **Features**
 - The ChatMessage script offers the following features:
-- Set the frequency of timed messages to your preference.
-- Add an unlimited number of messages to be displayed.
-- Customize the name and colour of the announcement poster for a personal touch.
+  - Set the frequency of timed messages to your preference.
+  - Add an unlimited number of messages to be displayed.
+  - Customize the name and colour of the announcement poster for a personal touch.
 
 
 
